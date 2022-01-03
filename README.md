@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Dell Technology
 - 🌱 I’m currently learning Python, Selenium and Cypress
-- 📫 How to reach me: 
+- 📫 How to reach me: Jessicaaoliveira794@gmail.com
 - 😄 Pronouns: She/Her
 - 🐾 Fun fact: I have a cute dog that loves music and is always with me
 <div align="center">
