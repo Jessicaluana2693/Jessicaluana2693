@@ -17,7 +17,6 @@
   <img align="center" alt="Jessi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jessi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jessi-Selenium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
-  <img align="center" alt="Jessi-Selenium" height="30" width="40" src="https://appmasters.io/static/cypress-logo-b163ec7f6e7b878d5062b471e07887d1.png">
   <img align="center" alt="Jessi-Selenium" height="30" width="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">
 </div>
   
