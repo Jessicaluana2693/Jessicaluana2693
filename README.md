@@ -1,7 +1,7 @@
 ### Hi I´m Jessica - QA Test Engineer - and it´s a pleasure to have you here 💻🐞
 
-- 🔭 I’m currently working on Dell Technology
-- 🌱 I’m currently learning Java, Selenium and Cypress
+- 🔭 I’m currently working on Santander Portugal in Lisbon
+- 🌱 I’m currently learning Selenium and Cypress
 - 📫 How to reach me: Jessicaaoliveira794@gmail.com
 - 😄 Pronouns: She/Her
 - 🐾 Fun fact: I have a cute dog that loves music and is always with me
