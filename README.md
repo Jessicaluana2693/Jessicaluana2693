@@ -1,4 +1,4 @@
-### Hi I´m Jessica - QA Test Engineer - and it´s a pleasure to have you here! 💻🐞
+### Hi I´m Jessica - QA Test Engineer - and it´s a pleasure to have you here! 💻
 #### About me ####
 - 🔭 I’m currently working on Santander Portugal in Lisbon
 - 🌱 I’m currently learning Selenium and Cypress
