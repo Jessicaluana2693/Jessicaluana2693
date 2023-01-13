@@ -1,7 +1,7 @@
 ### Hi I´m Jessica - QA Test Engineer - and it´s a pleasure to have you here! 💻
 #### About me ####
 - 🔭 I’m currently working on Santander Portugal in Lisbon
-- 🌱 I’m currently learning Selenium and Cypress
+- 🌱 I’m currently studying for STQB - CTFL certification
 - 📫 How to reach me: Jessicaaoliveira794@gmail.com
 - 😄 Pronouns: She/Her
 - 🐾 Fun fact: I have a cute dog, I play ukulele and I love to draw
