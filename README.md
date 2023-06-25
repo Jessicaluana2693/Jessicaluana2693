@@ -1,6 +1,6 @@
 ### Hi I´m Jessica - QA Test Engineer - and it´s a pleasure to have you here! 💻
 #### About me ####
-- 🔭 I’m currently working on Santander Portugal in Lisbon
+- 🔭 I’m currently working on Lenovo 
 - 🌱 I’m currently studying for STQB - CTFL certification
 - 📫 How to reach me: Jessicaaoliveira794@gmail.com
 - 😄 Pronouns: She/Her
@@ -38,7 +38,7 @@
   - Cucumber
   - Behave
   - Appium
-  - Cypress
+    
 #### 🐞 Tools: ####
   - IntelliJ
   - Visual Studio Code
@@ -49,10 +49,11 @@
   - Confluence
   - Azure
   - PyAutoGUI
+    
 #### 🐞 Programming Language: ####
   - Python
   - Java
-  - C++
+  - C#
   - JavaScript
   
  
