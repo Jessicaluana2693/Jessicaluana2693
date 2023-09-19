@@ -22,15 +22,15 @@
  ##
   
 #### 🐞 Testing Techniques: ####
-  - black box
-  - white box
-  - equivalence partition
-  - limit value analysis
-  - decision table
-  - exploratory tests
-  - regression tests
+  - Black box
+  - White box
+  - Equivalence partition
+  - Limit value analysis
+  - Decision table
+  - Exploratory tests
+  - Regression tests
   - BDD
-  - smoke test
+  - Smoke test
 #### 🐞 Test Automation Frameworks: ####
   - Selenium
   - Rest Assured
@@ -38,9 +38,16 @@
   - Cucumber
   - Behave
   - Appium
+  - Requests
+  - PyTest
+  - Unittest
+  - TestNG
+  - HTTPClient
+  - WireMock
     
 #### 🐞 Tools: ####
   - IntelliJ
+  - Pycharm
   - Visual Studio Code
   - Postman
   - Jenkins
@@ -48,12 +55,11 @@
   - Jira
   - Confluence
   - Azure
+  - Git
   - PyAutoGUI
     
 #### 🐞 Programming Language: ####
   - Python
   - Java
-  - C#
-  - JavaScript
   
  
