@@ -1,4 +1,4 @@
-### Hi I´m Jessica - QA Test Engineer - and it´s a pleasure to have you here! 💻
+### Hi I'm Jessica - QA Test Engineer - and it´s a pleasure to have you here! 💻
 #### About me ####
 - 🔭 I’m currently working on Lenovo 
 - 🌱 I’m currently studying for STQB - CTFL certification
