@@ -1,6 +1,6 @@
 ### Hi I'm Jessica - QA Test Engineer - and it´s a pleasure to have you here! 💻
 #### About me ####
-- 🔭 I’m currently working on Lenovo 
+- 🔭 I’m currently working on Montreal Company 
 - 🌱 I’m currently studying for STQB - CTFL certification
 - 📫 How to reach me: Jessicaaoliveira794@gmail.com
 - 😄 Pronouns: She/Her
@@ -31,25 +31,21 @@
   - Regression tests
   - BDD
   - Smoke test
+  - Regressive testing
+  - Integration tests
 #### 🐞 Test Automation Frameworks: ####
-  - Selenium
-  - Rest Assured
-  - JUnit
-  - Cucumber
-  - Behave
+  - Robot Framework
   - Appium
-  - Requests
+  - Cypress
+  - Python
+  - Behave
+  - Postman
   - PyTest
-  - Unittest
   - TestNG
-  - HTTPClient
-  - WireMock
-    
 #### 🐞 Tools: ####
   - IntelliJ
   - Pycharm
   - Visual Studio Code
-  - Postman
   - Jenkins
   - Travis
   - Jira
@@ -60,6 +56,6 @@
     
 #### 🐞 Programming Language: ####
   - Python
-  - Java
+  - Javascript
   
  
